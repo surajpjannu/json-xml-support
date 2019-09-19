@@ -49,3 +49,5 @@ public class JsonXmlSupportConfiguration implements WebMvcConfigurer {
     }
 }
 ```
+
+3. import JsonXmlSupport.postman_collection.json in postman collection and test the apis.
