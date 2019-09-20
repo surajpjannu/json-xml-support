@@ -496,15 +496,4 @@ Response
 ]
 ```
 
-# Test 9
-
-Request
-```aidl
-
-```
-Response
-```aidl
-
-```
-
 
